@@ -1,10 +1,12 @@
-#  Database Design 
+# Database Designs Collection
 
-## Design Index
+A collection of database designs for real-world applications.
+
+## 📚 Designs
 
 | # |  Topic | Link |
 |---|--------|------|
-| 1 | Instagram Thrift Creator Store | [View](./designs/2026-01-01-design-1-ecommerce.md) |
+| 1 | Instagram Thrift Creator Store | [View](./thrift-creator-store/README.md) |
 
 
 ## What Each Design Contains
