@@ -1,5 +1,6 @@
 # 📦 Instagram Thrift Creator Store - Database Design
 
+Eraser Link https://app.eraser.io/workspace/x9dBbRPJQioQCYD4U5UQ?origin=share
 
 ## 🎯 Overview
 
