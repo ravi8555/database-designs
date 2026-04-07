@@ -6,7 +6,8 @@ A collection of database designs for real-world applications.
 
 | # |  Topic | Link |
 |---|--------|------|
-| 1 | Instagram Thrift Creator Store | [View](./thrift-creator-store/README.md) |
+| 1 | Instagram Thrift Creator Store   | [View](./thrift-creator-store/README.md) |
+| 2 | Online Fitness Coaching Platform | [View](./fitness-coaching-platform/README.md) |
 
 
 ## What Each Design Contains
