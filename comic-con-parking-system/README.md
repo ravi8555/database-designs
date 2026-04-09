@@ -1,4 +1,4 @@
-# 🅿️ ## Comic-Con Parking System – ER Design
+# 🅿️ Comic-Con Parking System – ER Design
 
 ## 📌 Overview
 
