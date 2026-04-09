@@ -18,20 +18,23 @@ The design ensures **efficient space utilization, scalability, and structured tr
 
 ---
 
-## 🎯 Objectives
+## 🎯 Business Requirements Supported
 
-This system is designed to answer:
-
-* What vehicles entered the parking facility?
-* What type of vehicle is it?
-* Which parking spot and category was assigned?
-* Which zone does the spot belong to?
-* When did the vehicle enter and exit?
-* What ticket was generated?
-* What is the payment status?
-* Can a vehicle enter multiple times?
-* Can a parking spot be reused?
-* What is the current parking availability?
+The database design answers key operational questions:
+- ✅ What vehicles entered the parking facility?
+- ✅ What type of vehicle entered (bike, car, SUV, EV)?
+- ✅ Which parking spot was assigned to which vehicle?
+- ✅ Which zone or level does that parking spot belong to?
+- ✅ Was the parking spot reserved for exhibitors, VIP guests, staff, or EV charging?
+- ✅ When did the vehicle enter and exit the facility?
+- ✅ What ticket was issued for the parking session?
+- ✅ Can one vehicle visit the venue multiple times across different days?
+- ✅ Can one parking spot be reused across multiple parking sessions?
+- ✅ How is parking availability tracked in real-time?
+- ✅ How are parking charges calculated based on vehicle type and access category?
+- ✅ How is payment recorded for each parking session?
+- ✅ Can special access categories (cosplayers with props, exhibitors, VIP guests, staff) be represented?
+- ✅ Can the system track which vehicles are currently parked inside the venue?
 
 ---
 
