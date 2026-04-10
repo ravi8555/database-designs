@@ -10,6 +10,7 @@ A collection of database designs for real-world applications.
 | 2 | Online Fitness Coaching Platform | [View](./fitness-coaching-platform/README.md) |
 | 3 | Clinic Management System         | [View](./clinic-management-system/README.md) |
 | 4 | Comic-Con Parking System         | [View](./comic-con-parking-system/README.md) |
+| 5 | Elevator Management System       | [View](./smart-elevator-control-system/README.md) |
 
 
 ## What Each Design Contains
