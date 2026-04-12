@@ -11,6 +11,7 @@ A collection of database designs for real-world applications.
 | 3 | Clinic Management System         | [View](./clinic-management-system/README.md) |
 | 4 | Comic-Con Parking System         | [View](./comic-con-parking-system/README.md) |
 | 5 | Elevator Management System       | [View](./smart-elevator-control-system/README.md) |
+| 6 | IPL Management System            | [View](./IPL-management-system/README.md) |
 
 
 ## What Each Design Contains
